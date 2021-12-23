@@ -23,12 +23,3 @@ app.listen(port,()=>{
 
 
 
-////////////////////////////////////////////////////task/////////////////////////////////
-/*
-
-reporters--> name - email - age - password - phoneNumber(just egy number)
-
-
-News---> title - date(created at,) - description - reporter
-//image and file
-*/
